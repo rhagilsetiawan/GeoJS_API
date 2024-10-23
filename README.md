@@ -1,6 +1,7 @@
 # geojs_flutter
 
-A new Flutter project.
+# Muhammad Rhagil Setiawan
+# H1101221011
 
 ## Getting Started
 
